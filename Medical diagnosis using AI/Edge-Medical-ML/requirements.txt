@@ -1,0 +1,6 @@
+numpy
+onnx
+onnxruntime
+joblib
+scikit-learn
+skl2onnx
